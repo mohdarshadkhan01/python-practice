@@ -1,8 +1,6 @@
 # Extract Numbers from a string
 
 
-__author__ = "Mahtab Alam"
-
 import re
 
 
