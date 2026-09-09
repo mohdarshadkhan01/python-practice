@@ -27,3 +27,7 @@ with open('examples.csv') as csvfile:
             print('The date of',whatColor,'is :',theDate)
         else:
             print('Color not found')
+    except Exception as e:
+        print(e)
+        
+    print('Continuing')
